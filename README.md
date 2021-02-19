@@ -9,7 +9,7 @@ My name is Vinicius Mattoso and...:
 - 🔭 I’m currently working on LMMP(PUC-Rio) that is a Laboratory of Microhydrodynamics and Flow in Porous Media
  
 - 🌱 I’m currently finishing my Master in Mechanical Engineering at PUC-RIO; 
-      My Masters is about reservoir simulation, and Inverse Problems;
+- 🌱 My Masters is about reservoir simulation, and Inverse Problems;
 
 - 📚 I’m currently learning about Kalman Filter methods for my thesis;
     
