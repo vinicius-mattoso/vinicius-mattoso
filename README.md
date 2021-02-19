@@ -2,8 +2,7 @@
 
 ### Welcome to my profile
 
-<!--
-**vinicius-mattoso/vinicius-mattoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 My name is Vinicius Mattoso and...:
 
@@ -17,6 +16,8 @@ My name is Vinicius Mattoso and...:
 - 🚀 I'm currently learning a lot about artificial intelligence and programming;
 
 - 👔 Currently I use python and matlab languages in my work.
-[comment]: <>(-👯 I’m looking to collaborate on ...- 🤔 I’m looking for help with ...- 💬 Ask me about ...- 📫 How to reach me:...- 😄 Pronouns: ...- ⚡ Fun fact: ...)
 
 If you want to follow me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-mattoso/)](https://www.linkedin.com/in/vinicius-mattoso/)
+<!--
+**vinicius-mattoso/vinicius-mattoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--[comment]: <>(-👯 I’m looking to collaborate on ...- 🤔 I’m looking for help with ...- 💬 Ask me about ...- 📫 How to reach me:...- 😄 Pronouns: ...- ⚡ Fun fact: ...)
