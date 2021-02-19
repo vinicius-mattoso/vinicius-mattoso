@@ -1,4 +1,6 @@
-### Hi there 👋
+![Welcome](/welcome-cover.png?raw=true)
+
+### Hi journeyer 👋
 
 ### Welcome to my profile
 
