@@ -13,7 +13,7 @@ My name is Vinicius Mattoso and...:
 - 🌱 I’m currently finishing my Master in Mechanical Engineering at PUC-RIO; 
 - 📂 My Masters is about reservoir simulation, and Inverse Problems;
 
-- 📚 I’m currently learning about Kalman Filter methods for my thesis;
+- 📚 I’m currently doing an MBA at the Applied Computational Intelligence Laboratory (ICA), to learn more about data and Artificial Intelligence;
     
 - 🚀 I'm currently learning a lot about artificial intelligence and programming;
 
