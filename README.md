@@ -10,7 +10,8 @@ My name is Vinicius Mattoso and...:
 
 - 🔭 I’m currently working on LMMP(PUC-Rio) that is a Laboratory of Microhydrodynamics and Flow in Porous Media
  
-- 🌱 I’m currently finishing my Master in Mechanical Engineering at PUC-RIO; 
+- 🌱 I’m M Sc. in Mechanical Engineering at PUC-RIO; 
+
 - 📂 My Masters is about reservoir simulation, and Inverse Problems;
 
 - 📚 I’m currently doing an MBA at the Applied Computational Intelligence Laboratory (ICA), to learn more about data and Artificial Intelligence;
@@ -21,9 +22,12 @@ My name is Vinicius Mattoso and...:
 
 If you want to follow me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-mattoso/)](https://www.linkedin.com/in/vinicius-mattoso/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-mattoso&layout=compact&langs_count=10&hide=blade,shell,html,swift,objective-c)
 
-
+---
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=vinicius-mattoso&show_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=graywhite" width="440"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-mattoso&layout=compact&theme=graywhite&hide_border=true" width="313" />
+</div>
 
 <!--
 **vinicius-mattoso/vinicius-mattoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
