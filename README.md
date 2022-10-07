@@ -20,6 +20,11 @@ My name is Vinicius Mattoso and...:
 - 👔 Currently I use python and matlab languages in my work.
 
 If you want to follow me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-mattoso/)](https://www.linkedin.com/in/vinicius-mattoso/)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-mattoso&layout=compact&langs_count=10&hide=blade,shell,html,swift,objective-c)
+
+
+
 <!--
 **vinicius-mattoso/vinicius-mattoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!--[comment]: <>(-👯 I’m looking to collaborate on ...- 🤔 I’m looking for help with ...- 💬 Ask me about ...- 📫 How to reach me:...- 😄 Pronouns: ...- ⚡ Fun fact: ...)
