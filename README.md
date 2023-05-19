@@ -22,7 +22,7 @@ My name is Vinicius Mattoso and...:
 
 If you want to follow me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-mattoso/)](https://www.linkedin.com/in/vinicius-mattoso/)
  
- [![Gmail Badge]( <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=vmatoso@lmmp.mec.puc-rio.br" /> )](vmatoso@lmmp.mec.puc-rio.br)
+ ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) (vmatoso@lmmp.mec.puc-rio.br)
 
 
 
