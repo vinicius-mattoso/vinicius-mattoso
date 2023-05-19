@@ -27,7 +27,13 @@ If you want to follow me:
  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:vmatoso@lmmp.mec.puc-rio.br)](mailto:vmatoso@lmmp.mec.puc-rio.br)
 
 
+Publications:
 
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/Vinicius-Silva-65)](https://www.researchgate.net/profile/Vinicius-Silva-65)
+
+Projects profile: [:globe_with_meridians:](https://vinicius-mattoso.github.io/ViniciusMattoso.github.io/)
+
+[![My Skills](https://skillicons.dev/icons?i=py,vscode,matlab,github,latex,tensorflow)](https://skillicons.dev)
 
 ---
 <div align="center">
