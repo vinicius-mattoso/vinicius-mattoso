@@ -39,7 +39,7 @@
 ## 📚 Publicações & Projetos
 
 - [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/Vinicius-Silva-65)](https://www.researchgate.net/profile/Vinicius-Silva-65)
-- Portfólio de projetos: [:globe_with_meridians: Acesse aqui](https://vinicius-mattoso.github.io/ViniciusMattoso.github.io/)
+- Portfólio de projetos: [:globe_with_meridians: Acesse aqui](https://vinicius-mattoso.github.io/HomePage/)
 
 ---
 
