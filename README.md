@@ -1,46 +1,55 @@
 ![Welcome](/welcome-cover.png?raw=true)
 
-### Hi journeyer 👋
+# 👋 Olá, eu sou o Vinicius Mattoso!
 
-### Welcome to my profile
+🎓 Engenheiro com mestrado em Engenharia Mecânica pela PUC-Rio, especializado em Inteligência Artificial, Otimização e Modelagem Matemática. Atuo como Cientista de Dados, desenvolvendo soluções orientadas a dados para problemas complexos.
 
+---
 
+## 🧠 Sobre Mim
 
-My name is Vinicius Mattoso and...:
+- 🔍 Foco em Inteligência Artificial, Aprendizado de Máquina e Otimização.
+- 💡 Experiência com desenvolvimento de modelos preditivos e algoritmos aplicados em engenharia e ciência computacional.
+- 📊 Sólida base em matemática aplicada e estatística, com proficiência em Python e MATLAB.
+- 🌐 Interessado em pesquisa, desenvolvimento de projetos open source e desafios em ciência de dados.
 
-- 🔭 I’m currently working on LMMP(PUC-Rio) that is a Laboratory of Microhydrodynamics and Flow in Porous Media
- 
-- 🌱 I’m M Sc. in Mechanical Engineering at PUC-RIO; 
+---
 
-- 📂 My Masters is about reservoir simulation, and Inverse Problems;
-
-- 📚 I’m currently doing an MBA at the Applied Computational Intelligence Laboratory (ICA), to learn more about data and Artificial Intelligence;
-    
-- 🚀 I'm currently learning a lot about artificial intelligence and programming;
-
-- 👔 Currently I use python and matlab languages in my work.
-
-If you want to follow me: 
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-mattoso/)](https://www.linkedin.com/in/vinicius-mattoso/)
- 
- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:vmatoso@lmmp.mec.puc-rio.br)](mailto:vmatoso@lmmp.mec.puc-rio.br)
-
-
-Publications:
-
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/Vinicius-Silva-65)](https://www.researchgate.net/profile/Vinicius-Silva-65)
-
-Projects profile: [:globe_with_meridians:](https://vinicius-mattoso.github.io/ViniciusMattoso.github.io/)
+## 🚀 Habilidades Técnicas
 
 [![My Skills](https://skillicons.dev/icons?i=py,vscode,matlab,github,latex,tensorflow)](https://skillicons.dev)
 
+**Outras Tecnologias & Bibliotecas:**
+
+- Scikit-learn, Keras, NumPy, Pandas, Matplotlib, Seaborn
+- Git, GitHub, Docker
+- Otimização com algoritmos genéticos, redes neurais e métodos numéricos
+
 ---
+
+## 📈 Estatísticas GitHub
+
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=vinicius-mattoso&show_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=graywhite" width="440"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-mattoso&layout=compact&theme=graywhite&hide_border=true" width="313" />
 </div>
 
-<!--
-**vinicius-mattoso/vinicius-mattoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<!--[comment]: <>(-👯 I’m looking to collaborate on ...- 🤔 I’m looking for help with ...- 💬 Ask me about ...- 📫 How to reach me:...- 😄 Pronouns: ...- ⚡ Fun fact: ...)
+---
+
+## 📚 Publicações & Projetos
+
+- [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/Vinicius-Silva-65)](https://www.researchgate.net/profile/Vinicius-Silva-65)
+- Portfólio de projetos: [:globe_with_meridians: Acesse aqui](https://vinicius-mattoso.github.io/ViniciusMattoso.github.io/)
+
+---
+
+## 📫 Contato
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-mattoso/)](https://www.linkedin.com/in/vinicius-mattoso/)
+[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:vinicius_matt@hotmail.com)](mailto:vinicius_matt@hotmail.com)
+
+---
+
+
+⭐ Se você gostou do meu trabalho, não se esqueça de dar uma estrela nos projetos!  
+🛠️ Sempre aberto a colaborações e conversas!
