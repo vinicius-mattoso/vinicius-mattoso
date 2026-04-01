@@ -47,16 +47,6 @@ Arquitetura avançada com MLflow e organização de experimentos.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius-mattoso&show_icons=true&theme=default)
-
-</div>
-
----
-
 ## 🛠️ Stack principal
 
 **Linguagens**
