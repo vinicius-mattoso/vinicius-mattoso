@@ -1,5 +1,3 @@
-![Welcome](/welcome-cover.png?raw=true)
-
 # Olá, eu sou o Vinicius Mattoso 👋
 
 Data Scientist focado em Inteligência Artificial, Machine Learning, Otimização e Generative AI, com forte experiência em Oil & Gas, Energia e aplicações orientadas a negócio.
