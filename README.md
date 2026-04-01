@@ -1,55 +1,104 @@
 ![Welcome](/welcome-cover.png?raw=true)
 
-# 👋 Olá, eu sou o Vinicius Mattoso!
+# Olá, eu sou o Vinicius Mattoso 👋
 
-🎓 Engenheiro com mestrado em Engenharia Mecânica pela PUC-Rio, especializado em Inteligência Artificial, Otimização e Modelagem Matemática. Atuo como Cientista de Dados, desenvolvendo soluções orientadas a dados para problemas complexos.
-
----
-
-## 🧠 Sobre Mim
-
-- 🔍 Foco em Inteligência Artificial, Aprendizado de Máquina e Otimização.
-- 💡 Experiência com desenvolvimento de modelos preditivos e algoritmos aplicados em engenharia e ciência computacional.
-- 📊 Sólida base em matemática aplicada e estatística, com proficiência em Python e MATLAB.
-- 🌐 Interessado em pesquisa, desenvolvimento de projetos open source e desafios em ciência de dados.
+Data Scientist focado em Inteligência Artificial, Machine Learning, Otimização e Generative AI, com forte experiência em Oil & Gas, Energia e aplicações orientadas a negócio.
 
 ---
 
-## 🚀 Habilidades Técnicas
+## 🧠 Sobre mim
 
-[![My Skills](https://skillicons.dev/icons?i=py,vscode,matlab,github,latex,tensorflow)](https://skillicons.dev)
+Atuo no desenvolvimento de soluções de IA ponta a ponta, desde a estruturação dos dados até a implementação em produção.
 
-**Outras Tecnologias & Bibliotecas:**
+Tenho background em Engenharia Mecânica com ênfase em Petróleo e Energia, o que me permite trabalhar com problemas complexos que exigem forte base analítica, modelagem e entendimento de sistemas físicos.
 
-- Scikit-learn, Keras, NumPy, Pandas, Matplotlib, Seaborn
-- Git, GitHub, Docker
-- Otimização com algoritmos genéticos, redes neurais e métodos numéricos
+Hoje meu foco está em transformar desafios de negócio em soluções escaláveis utilizando Machine Learning, Optimization e LLMs.
 
 ---
 
-## 📈 Estatísticas GitHub
+## ⚙️ Foco atual
+
+- Machine Learning e Modelagem Preditiva  
+- Generative AI (LLMs, LangChain, RAG)  
+- GraphRAG com dados textuais e tabulares  
+- Sistemas de otimização e suporte à decisão  
+- MLOps e experimentação (MLflow, pipelines)  
+- Aplicações em Oil & Gas, Energia e Indústria  
+
+---
+
+## 🚀 Projetos em destaque
+
+### 📊 LearningHub
+Repositório central com estudos e projetos em Python, Data Science, Machine Learning e AI.  
+👉 https://github.com/vinicius-mattoso/LearningHub
+
+### 🤖 AI Agentes Study
+Exploração de agentes com LLMs, LangChain e arquiteturas modernas de IA.  
+👉 https://github.com/vinicius-mattoso/AI-Agentes-Study
+
+### 🔬 MLflow Part 1
+Fundamentos de experiment tracking com MLflow.  
+👉 https://github.com/vinicius-mattoso/MLFlow_part1
+
+### 🧠 MLflow Part 2
+Arquitetura avançada com MLflow e organização de experimentos.  
+👉 https://github.com/vinicius-mattoso/MLFlow_part2
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=vinicius-mattoso&show_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=graywhite" width="440"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-mattoso&layout=compact&theme=graywhite&hide_border=true" width="313" />
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius-mattoso&show_icons=true&theme=default)
+
 </div>
+
+---
+
+## 🛠️ Stack principal
+
+**Linguagens**
+- Python
+- SQL
+
+**Machine Learning / AI**
+- Scikit-learn, TensorFlow, PyTorch
+- XGBoost, Prophet
+- LangChain, LLMs, RAG
+
+**MLOps e Engenharia**
+- MLflow
+- FastAPI
+- Docker
+
+**Cloud**
+- AWS (S3, EC2, SageMaker)
+- Azure
 
 ---
 
 ## 📚 Publicações & Projetos
 
-- [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/Vinicius-Silva-65)](https://www.researchgate.net/profile/Vinicius-Silva-65)
-- Portfólio de projetos: [:globe_with_meridians: Acesse aqui](https://vinicius-mattoso.github.io/HomePage/)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Vinicius-Silva-65)
+
+🌐 Portfólio:  
+👉 https://vinicius-mattoso.github.io/
 
 ---
 
 ## 📫 Contato
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-mattoso/)](https://www.linkedin.com/in/vinicius-mattoso/)
-[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:vinicius_matt@hotmail.com)](mailto:vinicius_matt@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-mattoso/)  
+📧 vinicius_matt@hotmail.com  
 
 ---
 
+## 💡 Interesses
 
-⭐ Se você gostou do meu trabalho, não se esqueça de dar uma estrela nos projetos!  
-🛠️ Sempre aberto a colaborações e conversas!
+IA aplicada a problemas reais, sistemas inteligentes, otimização e construção de soluções escaláveis orientadas a impacto.
+
+---
+
+⭐ Se algum projeto fizer sentido para você, fique à vontade para explorar ou entrar em contato!
